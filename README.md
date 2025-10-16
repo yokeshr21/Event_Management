@@ -21,20 +21,6 @@ Input validation and meaningful error messages
 | Environment Config | dotenv             |
 
 
-event-management-api/
-│
-├── src/
-│   ├── routes/
-│   │   └── events.js
-│   ├── utils/
-│   │   └── validators.js
-│   ├── db.js
-│   └── app.js
-│
-├── .env
-├── package.json
-└── README.md
-
 # Setup Instructions
 ## 1.Clone and Install
 git clone https://github.com/yokeshr21/event-management-api.git
